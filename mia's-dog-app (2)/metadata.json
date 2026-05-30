@@ -1,0 +1,6 @@
+{
+  "name": "Mia's Dog App",
+  "description": "An interactive, playful and clean dog explorer app for kids to learn about dog breeds, view puppies and fully grown dogs, and save their favorite pocket pals and gentle giants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
